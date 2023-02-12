@@ -1,0 +1,42 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 5rem;
+    padding: 5px 50px;
+}
+
+.logo-container{
+    width: 100px;
+    height: 80px;
+}
+
+.logo{
+    width: 3rem;
+    height: 5rem;
+}
+
+.svg-text{
+    color: #64FFDA;
+    font-size: 20px;
+    font-weight: bold;
+    top: 30px;
+    left: 66px;
+    position: absolute;
+}
+
+.nav-links{
+    display: flex;
+    color: white;
+    list-style-type: decimal;
+}
+
+.nav-links a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: white;
+}
+
+/* .nav-links a li{
+    
+} */

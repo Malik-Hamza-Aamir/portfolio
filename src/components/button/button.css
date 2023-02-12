@@ -1,0 +1,17 @@
+.button-container{
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: bolder;
+    background-color: transparent;
+    color: #64FFDA;
+    border: 1.5px solid #64FFDA;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    padding: 12px 12px;
+}
+
+.button-container:hover{
+    transition: 0.5s;
+    background-color: #133040;
+}

@@ -1,0 +1,13 @@
+.leftbar-container{
+    position: fixed;
+    bottom: 0;
+}
+
+.line-element::after{
+    content: "";
+    display: block;
+    width: 1px;
+    height: 90px;
+    margin: 0px auto;
+    background-color: white;
+}
